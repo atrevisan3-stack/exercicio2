@@ -1,0 +1,1 @@
+# Exportação da lista de sessões
